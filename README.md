@@ -1,1 +1,2 @@
-# People
+- Maksymilian Bukowski
+- Sebastian Duda
